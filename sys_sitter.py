@@ -41,12 +41,15 @@ def load_checks():
         unit = config_data['service']['unit']
         interval = config_data['interval']
         mode = config_data['service']['mode']
+        max_restarts = config_data['service'].get('max_restarts', 3)
 
         checks.append ({
             'unit': unit,
             'mode': mode,
             'interval': interval,
-            'next_run': time.time()
+            'max_restarts': max_restarts,
+            'next_run': time.time(),
+            'restarts': 0
         })
 
     return checks
@@ -77,20 +80,38 @@ def main():
         for check in checks:
             unit = check['unit']
             mode = check['mode']
+            max_restarts = check['max_restarts']
             if now >= check['next_run']:
                 status = check_systemd(unit)
                 # print(f"[{time.strftime('%H:%M:%S')}] ... {check['unit']} ... {'OK' if status else 'FAIL'}")
+
                 if status:
                     print(f"[{time.strftime('%H:%M:%S')}] ... {check['unit']} ... OK")
                     logger.info(f"{unit} is active")
                     print('-' * 40)
+                    check['restarts'] = 0
+
                 else:
                     print(f"[{time.strftime('%H:%M:%S')}] ... {check['unit']} ... FAIL")
                     print('-' * 40)
                     logger.info(f"{unit} is inactive")
+
                     if mode == 'enforce':
-                        logger.info(f'we will restart {unit} after day 5')
-   
+                        if check['restarts'] < max_restarts:
+                            subprocess.run(
+                                ['systemctl', 'restart', unit],
+                                capture_output=True, text=True
+                            )
+                            check['restarts'] += 1
+
+                        elif check['restarts'] == max_restarts:
+                            logger.info(f'Failed to restart {unit} so giving up')
+                            print(f"[{time.strftime('%H:%M:%S')}] ... {check['unit']} ... gave up")
+                            check['restarts'] += 1
+                        else:
+                            logger.info(f'gave up on {unit}')
+                            print(f"[{time.strftime('%H:%M:%S')}] ... {check['unit']} ... gave up")
+                
                 check['next_run'] = now + check['interval']
         time.sleep(1)
 

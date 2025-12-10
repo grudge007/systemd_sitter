@@ -152,3 +152,437 @@
 2025-12-08 23:54:10,994 - INFO - ssh.service is active
 2025-12-08 23:54:11,008 - INFO - nginx.service is inactive
 2025-12-08 23:54:11,008 - INFO - we will restart nginx.service after day 5
+2025-12-09 21:55:26,987 - INFO - ssh.service is active
+2025-12-09 21:55:26,999 - INFO - nginx.service is inactive
+2025-12-09 21:55:27,000 - INFO - we will restart nginx.service after day 5
+2025-12-09 21:59:53,801 - INFO - ssh.service is active
+2025-12-09 21:59:53,812 - INFO - nginx.service is inactive
+2025-12-09 21:59:53,812 - INFO - we will restart nginx.service after day 5
+2025-12-09 22:03:46,830 - INFO - ssh.service is active
+2025-12-09 22:03:46,842 - INFO - nginx.service is inactive
+2025-12-09 22:03:46,842 - INFO - we will restart nginx.service after day 5
+2025-12-09 23:08:11,685 - INFO - ssh.service is active
+2025-12-09 23:08:11,693 - INFO - nginx.service is inactive
+2025-12-09 23:08:57,702 - INFO - ssh.service is active
+2025-12-09 23:08:57,712 - INFO - nginx.service is inactive
+2025-12-09 23:10:16,122 - INFO - ssh.service is active
+2025-12-09 23:10:16,131 - INFO - nginx.service is inactive
+2025-12-09 23:11:01,568 - INFO - ssh.service is active
+2025-12-09 23:11:01,578 - INFO - nginx.service is inactive
+2025-12-09 23:16:14,098 - INFO - ssh.service is active
+2025-12-09 23:16:14,107 - INFO - nginx.service is inactive
+2025-12-09 23:20:56,211 - INFO - ssh.service is active
+2025-12-09 23:20:56,221 - INFO - nginx.service is inactive
+2025-12-09 23:25:03,798 - INFO - ssh.service is active
+2025-12-09 23:25:03,806 - INFO - nginx.service is inactive
+2025-12-09 23:42:24,466 - INFO - ssh.service is active
+2025-12-09 23:42:24,475 - INFO - nginx.service is inactive
+2025-12-09 23:44:12,639 - INFO - ssh.service is active
+2025-12-09 23:44:12,649 - INFO - nginx.service is inactive
+2025-12-09 23:44:58,981 - INFO - ssh.service is active
+2025-12-09 23:44:58,991 - INFO - nginx.service is inactive
+2025-12-09 23:45:09,434 - INFO - nginx.service is inactive
+2025-12-09 23:48:02,063 - INFO - ssh.service is active
+2025-12-09 23:48:02,070 - INFO - nginx.service is inactive
+2025-12-09 23:48:12,681 - INFO - nginx.service is inactive
+2025-12-09 23:48:23,278 - INFO - nginx.service is inactive
+2025-12-09 23:48:32,882 - INFO - ssh.service is active
+2025-12-09 23:48:33,895 - INFO - nginx.service is inactive
+2025-12-09 23:48:43,908 - INFO - nginx.service is inactive
+2025-12-09 23:48:53,923 - INFO - nginx.service is inactive
+2025-12-09 23:49:02,936 - INFO - ssh.service is active
+2025-12-09 23:49:03,947 - INFO - nginx.service is inactive
+2025-12-09 23:49:13,960 - INFO - nginx.service is inactive
+2025-12-09 23:49:23,973 - INFO - nginx.service is inactive
+2025-12-09 23:49:32,985 - INFO - ssh.service is active
+2025-12-09 23:49:33,995 - INFO - nginx.service is inactive
+2025-12-09 23:49:44,008 - INFO - nginx.service is inactive
+2025-12-09 23:49:54,023 - INFO - nginx.service is inactive
+2025-12-09 23:50:03,042 - INFO - ssh.service is active
+2025-12-09 23:50:04,054 - INFO - nginx.service is inactive
+2025-12-09 23:50:14,067 - INFO - nginx.service is inactive
+2025-12-09 23:50:24,083 - INFO - nginx.service is inactive
+2025-12-09 23:50:33,097 - INFO - ssh.service is active
+2025-12-09 23:50:34,107 - INFO - nginx.service is inactive
+2025-12-09 23:50:44,121 - INFO - nginx.service is inactive
+2025-12-09 23:50:53,634 - INFO - ssh.service is active
+2025-12-09 23:50:53,644 - INFO - nginx.service is inactive
+2025-12-09 23:51:04,246 - INFO - nginx.service is inactive
+2025-12-09 23:51:14,857 - INFO - nginx.service is inactive
+2025-12-09 23:51:17,457 - INFO - giving up on nginx.service
+2025-12-09 23:51:24,470 - INFO - ssh.service is active
+2025-12-09 23:51:25,481 - INFO - nginx.service is inactive
+2025-12-09 23:51:25,482 - INFO - giving up on nginx.service
+2025-12-09 23:51:35,495 - INFO - nginx.service is inactive
+2025-12-09 23:51:35,495 - INFO - giving up on nginx.service
+2025-12-09 23:51:45,507 - INFO - nginx.service is inactive
+2025-12-09 23:51:45,508 - INFO - giving up on nginx.service
+2025-12-09 23:51:54,518 - INFO - ssh.service is active
+2025-12-09 23:51:55,533 - INFO - nginx.service is inactive
+2025-12-09 23:51:55,534 - INFO - giving up on nginx.service
+2025-12-09 23:52:05,549 - INFO - nginx.service is inactive
+2025-12-09 23:52:05,549 - INFO - giving up on nginx.service
+2025-12-09 23:52:11,430 - INFO - ssh.service is active
+2025-12-09 23:52:11,439 - INFO - nginx.service is inactive
+2025-12-09 23:52:21,545 - INFO - nginx.service is active
+2025-12-09 23:52:31,560 - INFO - nginx.service is active
+2025-12-09 23:52:41,571 - INFO - ssh.service is active
+2025-12-09 23:52:41,579 - INFO - nginx.service is active
+2025-12-09 23:52:51,597 - INFO - nginx.service is active
+2025-12-09 23:53:01,606 - INFO - nginx.service is active
+2025-12-09 23:53:11,616 - INFO - ssh.service is active
+2025-12-09 23:53:11,624 - INFO - nginx.service is active
+2025-12-09 23:53:21,634 - INFO - nginx.service is active
+2025-12-09 23:53:31,642 - INFO - nginx.service is active
+2025-12-09 23:53:41,652 - INFO - ssh.service is active
+2025-12-09 23:53:41,660 - INFO - nginx.service is active
+2025-12-09 23:53:51,669 - INFO - nginx.service is active
+2025-12-09 23:54:01,678 - INFO - nginx.service is active
+2025-12-09 23:54:11,694 - INFO - ssh.service is active
+2025-12-09 23:54:11,703 - INFO - nginx.service is active
+2025-12-09 23:54:21,716 - INFO - nginx.service is active
+2025-12-09 23:54:31,730 - INFO - nginx.service is active
+2025-12-09 23:54:41,742 - INFO - ssh.service is active
+2025-12-09 23:54:41,751 - INFO - nginx.service is active
+2025-12-09 23:54:51,764 - INFO - nginx.service is active
+2025-12-09 23:55:01,776 - INFO - nginx.service is active
+2025-12-09 23:55:11,788 - INFO - ssh.service is active
+2025-12-09 23:55:11,796 - INFO - nginx.service is active
+2025-12-09 23:55:21,809 - INFO - nginx.service is active
+2025-12-09 23:55:31,823 - INFO - nginx.service is active
+2025-12-09 23:55:41,835 - INFO - ssh.service is active
+2025-12-09 23:55:41,844 - INFO - nginx.service is active
+2025-12-10 09:13:58,127 - INFO - ssh.service is active
+2025-12-10 09:13:58,136 - INFO - nginx.service is active
+2025-12-10 09:14:08,151 - INFO - nginx.service is active
+2025-12-10 09:14:18,166 - INFO - nginx.service is active
+2025-12-10 09:14:28,179 - INFO - ssh.service is active
+2025-12-10 09:14:28,190 - INFO - nginx.service is active
+2025-12-10 09:14:38,204 - INFO - nginx.service is active
+2025-12-10 09:14:48,218 - INFO - nginx.service is active
+2025-12-10 09:14:58,230 - INFO - ssh.service is active
+2025-12-10 09:14:58,239 - INFO - nginx.service is active
+2025-12-10 09:15:08,253 - INFO - nginx.service is active
+2025-12-10 09:15:18,266 - INFO - nginx.service is active
+2025-12-10 09:15:28,277 - INFO - ssh.service is active
+2025-12-10 09:15:28,286 - INFO - nginx.service is active
+2025-12-10 09:15:38,299 - INFO - nginx.service is active
+2025-12-10 09:15:48,313 - INFO - nginx.service is active
+2025-12-10 09:15:58,326 - INFO - ssh.service is active
+2025-12-10 09:15:58,335 - INFO - nginx.service is active
+2025-12-10 09:16:08,348 - INFO - nginx.service is active
+2025-12-10 09:16:18,363 - INFO - nginx.service is active
+2025-12-10 09:16:28,378 - INFO - ssh.service is active
+2025-12-10 09:16:28,387 - INFO - nginx.service is active
+2025-12-10 09:16:38,402 - INFO - nginx.service is active
+2025-12-10 09:16:48,419 - INFO - nginx.service is active
+2025-12-10 09:16:58,432 - INFO - ssh.service is active
+2025-12-10 09:16:58,442 - INFO - nginx.service is active
+2025-12-10 09:17:08,455 - INFO - nginx.service is active
+2025-12-10 09:17:18,469 - INFO - nginx.service is active
+2025-12-10 09:17:28,482 - INFO - ssh.service is active
+2025-12-10 09:17:28,493 - INFO - nginx.service is active
+2025-12-10 09:17:38,506 - INFO - nginx.service is active
+2025-12-10 09:17:48,522 - INFO - nginx.service is active
+2025-12-10 09:17:55,886 - INFO - apache2 is inactive
+2025-12-10 09:17:56,140 - INFO - ssh.service is active
+2025-12-10 09:17:56,148 - INFO - nginx.service is active
+2025-12-10 09:18:06,160 - INFO - apache2 is inactive
+2025-12-10 09:18:06,345 - INFO - nginx.service is active
+2025-12-10 09:18:16,358 - INFO - apache2 is inactive
+2025-12-10 09:18:16,533 - INFO - nginx.service is active
+2025-12-10 09:18:26,551 - INFO - apache2 is inactive
+2025-12-10 09:18:26,551 - INFO - giving up on apache2
+2025-12-10 09:18:26,562 - INFO - ssh.service is active
+2025-12-10 09:18:26,575 - INFO - nginx.service is active
+2025-12-10 09:18:36,589 - INFO - apache2 is inactive
+2025-12-10 09:18:36,590 - INFO - giving up on apache2
+2025-12-10 09:18:36,598 - INFO - nginx.service is active
+2025-12-10 09:18:46,610 - INFO - apache2 is inactive
+2025-12-10 09:18:46,610 - INFO - giving up on apache2
+2025-12-10 09:18:46,621 - INFO - nginx.service is active
+2025-12-10 09:18:56,635 - INFO - apache2 is inactive
+2025-12-10 09:18:56,635 - INFO - giving up on apache2
+2025-12-10 09:18:56,645 - INFO - ssh.service is active
+2025-12-10 09:18:56,654 - INFO - nginx.service is active
+2025-12-10 09:19:06,666 - INFO - apache2 is inactive
+2025-12-10 09:19:06,666 - INFO - giving up on apache2
+2025-12-10 09:19:06,675 - INFO - nginx.service is active
+2025-12-10 09:19:16,689 - INFO - apache2 is inactive
+2025-12-10 09:19:16,689 - INFO - giving up on apache2
+2025-12-10 09:19:16,698 - INFO - nginx.service is active
+2025-12-10 09:19:26,711 - INFO - apache2 is inactive
+2025-12-10 09:19:26,712 - INFO - giving up on apache2
+2025-12-10 09:19:26,722 - INFO - ssh.service is active
+2025-12-10 09:19:26,733 - INFO - nginx.service is active
+2025-12-10 09:19:36,746 - INFO - apache2 is inactive
+2025-12-10 09:19:36,747 - INFO - giving up on apache2
+2025-12-10 09:19:36,755 - INFO - nginx.service is active
+2025-12-10 09:19:46,767 - INFO - apache2 is inactive
+2025-12-10 09:19:46,767 - INFO - giving up on apache2
+2025-12-10 09:19:46,776 - INFO - nginx.service is active
+2025-12-10 09:19:56,791 - INFO - apache2 is inactive
+2025-12-10 09:19:56,791 - INFO - giving up on apache2
+2025-12-10 09:19:56,800 - INFO - ssh.service is active
+2025-12-10 09:19:56,809 - INFO - nginx.service is active
+2025-12-10 09:20:06,823 - INFO - apache2 is inactive
+2025-12-10 09:20:06,823 - INFO - giving up on apache2
+2025-12-10 09:20:06,832 - INFO - nginx.service is active
+2025-12-10 09:20:16,847 - INFO - apache2 is inactive
+2025-12-10 09:20:16,847 - INFO - giving up on apache2
+2025-12-10 09:20:16,855 - INFO - nginx.service is active
+2025-12-10 09:20:26,868 - INFO - apache2 is inactive
+2025-12-10 09:20:26,868 - INFO - giving up on apache2
+2025-12-10 09:20:26,878 - INFO - ssh.service is active
+2025-12-10 09:20:26,889 - INFO - nginx.service is active
+2025-12-10 09:20:36,903 - INFO - apache2 is inactive
+2025-12-10 09:20:36,904 - INFO - giving up on apache2
+2025-12-10 09:20:36,912 - INFO - nginx.service is active
+2025-12-10 09:20:46,926 - INFO - apache2 is inactive
+2025-12-10 09:20:46,926 - INFO - giving up on apache2
+2025-12-10 09:20:46,934 - INFO - nginx.service is active
+2025-12-10 09:20:56,952 - INFO - apache2 is inactive
+2025-12-10 09:20:56,952 - INFO - giving up on apache2
+2025-12-10 09:20:56,962 - INFO - ssh.service is active
+2025-12-10 09:20:56,973 - INFO - nginx.service is active
+2025-12-10 09:21:04,049 - INFO - apache2 is inactive
+2025-12-10 09:21:04,223 - INFO - ssh.service is active
+2025-12-10 09:21:04,232 - INFO - nginx.service is active
+2025-12-10 09:21:14,247 - INFO - apache2 is inactive
+2025-12-10 09:21:14,434 - INFO - nginx.service is active
+2025-12-10 09:21:24,447 - INFO - apache2 is inactive
+2025-12-10 09:21:24,447 - INFO - giving up on apache2
+2025-12-10 09:21:24,456 - INFO - nginx.service is active
+2025-12-10 09:21:34,469 - INFO - apache2 is inactive
+2025-12-10 09:21:34,469 - INFO - giving up on apache2
+2025-12-10 09:21:34,478 - INFO - ssh.service is active
+2025-12-10 09:21:34,488 - INFO - nginx.service is active
+2025-12-10 09:21:44,501 - INFO - apache2 is inactive
+2025-12-10 09:21:44,501 - INFO - giving up on apache2
+2025-12-10 09:21:44,510 - INFO - nginx.service is active
+2025-12-10 09:21:54,525 - INFO - apache2 is inactive
+2025-12-10 09:21:54,525 - INFO - giving up on apache2
+2025-12-10 09:21:54,536 - INFO - nginx.service is active
+2025-12-10 09:22:04,550 - INFO - apache2 is inactive
+2025-12-10 09:22:04,550 - INFO - giving up on apache2
+2025-12-10 09:22:04,560 - INFO - ssh.service is active
+2025-12-10 09:22:04,569 - INFO - nginx.service is active
+2025-12-10 09:22:14,584 - INFO - apache2 is inactive
+2025-12-10 09:22:14,584 - INFO - giving up on apache2
+2025-12-10 09:22:14,593 - INFO - nginx.service is active
+2025-12-10 09:22:24,607 - INFO - apache2 is inactive
+2025-12-10 09:22:24,607 - INFO - giving up on apache2
+2025-12-10 09:22:24,617 - INFO - nginx.service is active
+2025-12-10 09:22:33,020 - INFO - apache2 is inactive
+2025-12-10 09:22:33,199 - INFO - ssh.service is active
+2025-12-10 09:22:33,209 - INFO - nginx.service is active
+2025-12-10 09:22:43,222 - INFO - apache2 is inactive
+2025-12-10 09:22:43,411 - INFO - nginx.service is active
+2025-12-10 09:22:53,424 - INFO - apache2 is inactive
+2025-12-10 09:22:53,424 - INFO - giving up on apache2
+2025-12-10 09:22:53,433 - INFO - nginx.service is active
+2025-12-10 09:23:03,447 - INFO - apache2 is inactive
+2025-12-10 09:23:03,447 - INFO - giving up on apache2
+2025-12-10 09:23:03,456 - INFO - ssh.service is active
+2025-12-10 09:23:03,464 - INFO - nginx.service is active
+2025-12-10 09:23:10,635 - INFO - apache2 is inactive
+2025-12-10 09:23:10,819 - INFO - ssh.service is active
+2025-12-10 09:23:10,830 - INFO - nginx.service is active
+2025-12-10 09:23:20,844 - INFO - apache2 is inactive
+2025-12-10 09:23:21,021 - INFO - nginx.service is active
+2025-12-10 09:23:31,035 - INFO - apache2 is inactive
+2025-12-10 09:23:31,036 - INFO - giving up on apache2
+2025-12-10 09:23:31,047 - INFO - nginx.service is active
+2025-12-10 09:23:41,061 - INFO - apache2 is inactive
+2025-12-10 09:23:41,061 - INFO - giving up on apache2
+2025-12-10 09:23:41,070 - INFO - ssh.service is active
+2025-12-10 09:23:41,079 - INFO - nginx.service is active
+2025-12-10 09:23:51,093 - INFO - apache2 is inactive
+2025-12-10 09:23:51,093 - INFO - giving up on apache2
+2025-12-10 09:23:51,103 - INFO - nginx.service is active
+2025-12-10 09:24:01,118 - INFO - apache2 is inactive
+2025-12-10 09:24:01,118 - INFO - giving up on apache2
+2025-12-10 09:24:01,127 - INFO - nginx.service is active
+2025-12-10 09:24:11,142 - INFO - apache2 is inactive
+2025-12-10 09:24:11,142 - INFO - giving up on apache2
+2025-12-10 09:24:11,151 - INFO - ssh.service is active
+2025-12-10 09:24:11,159 - INFO - nginx.service is active
+2025-12-10 09:24:21,174 - INFO - apache2 is inactive
+2025-12-10 09:24:21,174 - INFO - giving up on apache2
+2025-12-10 09:24:21,184 - INFO - nginx.service is active
+2025-12-10 09:24:31,202 - INFO - apache2 is inactive
+2025-12-10 09:24:31,202 - INFO - giving up on apache2
+2025-12-10 09:24:31,218 - INFO - nginx.service is active
+2025-12-10 09:24:41,230 - INFO - apache2 is inactive
+2025-12-10 09:24:41,230 - INFO - giving up on apache2
+2025-12-10 09:24:41,239 - INFO - ssh.service is active
+2025-12-10 09:24:41,248 - INFO - nginx.service is active
+2025-12-10 09:24:51,262 - INFO - apache2 is inactive
+2025-12-10 09:24:51,262 - INFO - giving up on apache2
+2025-12-10 09:24:51,271 - INFO - nginx.service is active
+2025-12-10 09:25:01,285 - INFO - apache2 is inactive
+2025-12-10 09:25:01,285 - INFO - giving up on apache2
+2025-12-10 09:25:01,294 - INFO - nginx.service is active
+2025-12-10 09:25:11,306 - INFO - apache2 is inactive
+2025-12-10 09:25:11,306 - INFO - giving up on apache2
+2025-12-10 09:25:11,316 - INFO - ssh.service is active
+2025-12-10 09:25:11,326 - INFO - nginx.service is active
+2025-12-10 09:25:21,340 - INFO - apache2 is inactive
+2025-12-10 09:25:21,340 - INFO - giving up on apache2
+2025-12-10 09:25:21,350 - INFO - nginx.service is active
+2025-12-10 09:25:31,366 - INFO - apache2 is inactive
+2025-12-10 09:25:31,366 - INFO - giving up on apache2
+2025-12-10 09:25:31,377 - INFO - nginx.service is active
+2025-12-10 09:25:41,391 - INFO - apache2 is inactive
+2025-12-10 09:25:41,391 - INFO - giving up on apache2
+2025-12-10 09:25:41,401 - INFO - ssh.service is active
+2025-12-10 09:25:41,409 - INFO - nginx.service is active
+2025-12-10 09:25:51,421 - INFO - apache2 is inactive
+2025-12-10 09:25:51,422 - INFO - giving up on apache2
+2025-12-10 09:25:51,431 - INFO - nginx.service is active
+2025-12-10 09:26:01,443 - INFO - apache2 is inactive
+2025-12-10 09:26:01,443 - INFO - giving up on apache2
+2025-12-10 09:26:01,451 - INFO - nginx.service is active
+2025-12-10 09:26:11,464 - INFO - apache2 is inactive
+2025-12-10 09:26:11,465 - INFO - giving up on apache2
+2025-12-10 09:26:11,475 - INFO - ssh.service is active
+2025-12-10 09:26:11,485 - INFO - nginx.service is active
+2025-12-10 09:26:21,499 - INFO - apache2 is inactive
+2025-12-10 09:26:21,499 - INFO - giving up on apache2
+2025-12-10 09:26:21,508 - INFO - nginx.service is active
+2025-12-10 09:26:31,523 - INFO - apache2 is inactive
+2025-12-10 09:26:31,523 - INFO - giving up on apache2
+2025-12-10 09:26:31,535 - INFO - nginx.service is active
+2025-12-10 09:26:53,240 - INFO - apache2 is inactive
+2025-12-10 09:26:53,411 - INFO - ssh.service is active
+2025-12-10 09:26:53,419 - INFO - nginx.service is active
+2025-12-10 09:27:03,431 - INFO - apache2 is inactive
+2025-12-10 09:27:03,605 - INFO - nginx.service is active
+2025-12-10 09:27:13,618 - INFO - apache2 is inactive
+2025-12-10 09:27:13,805 - INFO - nginx.service is active
+2025-12-10 09:27:23,818 - INFO - apache2 is inactive
+2025-12-10 09:27:23,994 - INFO - ssh.service is active
+2025-12-10 09:27:24,003 - INFO - nginx.service is active
+2025-12-10 09:27:34,017 - INFO - apache2 is inactive
+2025-12-10 09:27:34,195 - INFO - nginx.service is active
+2025-12-10 09:27:44,208 - INFO - apache2 is inactive
+2025-12-10 09:27:44,377 - INFO - nginx.service is active
+2025-12-10 09:27:54,392 - INFO - apache2 is inactive
+2025-12-10 09:27:54,572 - INFO - ssh.service is active
+2025-12-10 09:27:54,581 - INFO - nginx.service is active
+2025-12-10 09:28:04,594 - INFO - apache2 is inactive
+2025-12-10 09:28:04,768 - INFO - nginx.service is active
+2025-12-10 09:28:14,781 - INFO - apache2 is inactive
+2025-12-10 09:28:14,946 - INFO - nginx.service is active
+2025-12-10 09:28:24,957 - INFO - apache2 is inactive
+2025-12-10 09:28:25,132 - INFO - ssh.service is active
+2025-12-10 09:28:25,140 - INFO - nginx.service is active
+2025-12-10 09:28:35,155 - INFO - apache2 is inactive
+2025-12-10 09:28:35,330 - INFO - nginx.service is active
+2025-12-10 09:28:45,343 - INFO - apache2 is inactive
+2025-12-10 09:28:45,522 - INFO - nginx.service is active
+2025-12-10 09:28:57,363 - INFO - apache2 is inactive
+2025-12-10 09:28:57,533 - INFO - ssh.service is active
+2025-12-10 09:28:57,544 - INFO - nginx.service is active
+2025-12-10 09:29:07,561 - INFO - apache2 is inactive
+2025-12-10 09:29:07,785 - INFO - nginx.service is active
+2025-12-10 09:29:17,798 - INFO - apache2 is inactive
+2025-12-10 09:29:17,993 - INFO - nginx.service is active
+2025-12-10 09:29:28,007 - INFO - apache2 is inactive
+2025-12-10 09:29:28,168 - INFO - ssh.service is active
+2025-12-10 09:29:28,177 - INFO - nginx.service is active
+2025-12-10 09:29:38,189 - INFO - apache2 is inactive
+2025-12-10 09:29:38,368 - INFO - nginx.service is active
+2025-12-10 09:29:48,380 - INFO - apache2 is inactive
+2025-12-10 09:29:48,567 - INFO - nginx.service is active
+2025-12-10 09:29:58,581 - INFO - apache2 is inactive
+2025-12-10 09:29:58,789 - INFO - ssh.service is active
+2025-12-10 09:29:58,801 - INFO - nginx.service is active
+2025-12-10 09:30:08,818 - INFO - apache2 is inactive
+2025-12-10 09:30:09,012 - INFO - nginx.service is active
+2025-12-10 09:30:19,024 - INFO - apache2 is inactive
+2025-12-10 09:30:19,212 - INFO - nginx.service is active
+2025-12-10 09:30:29,224 - INFO - apache2 is inactive
+2025-12-10 09:30:29,395 - INFO - ssh.service is active
+2025-12-10 09:30:29,404 - INFO - nginx.service is active
+2025-12-10 09:30:39,416 - INFO - apache2 is inactive
+2025-12-10 09:30:39,589 - INFO - nginx.service is active
+2025-12-10 09:30:49,601 - INFO - apache2 is inactive
+2025-12-10 09:30:49,786 - INFO - nginx.service is active
+2025-12-10 09:30:59,800 - INFO - apache2 is inactive
+2025-12-10 09:30:59,996 - INFO - ssh.service is active
+2025-12-10 09:31:00,007 - INFO - nginx.service is active
+2025-12-10 09:31:10,020 - INFO - apache2 is inactive
+2025-12-10 09:31:10,189 - INFO - nginx.service is active
+2025-12-10 09:31:20,202 - INFO - apache2 is inactive
+2025-12-10 09:31:20,379 - INFO - nginx.service is active
+2025-12-10 09:31:30,395 - INFO - apache2 is inactive
+2025-12-10 09:31:30,569 - INFO - ssh.service is active
+2025-12-10 09:31:30,579 - INFO - nginx.service is active
+2025-12-10 09:31:38,816 - INFO - apache2 is inactive
+2025-12-10 09:31:38,991 - INFO - ssh.service is active
+2025-12-10 09:31:39,001 - INFO - nginx.service is active
+2025-12-10 09:31:49,016 - INFO - apache2 is inactive
+2025-12-10 09:31:49,193 - INFO - nginx.service is active
+2025-12-10 09:31:59,209 - INFO - apache2 is inactive
+2025-12-10 09:31:59,209 - INFO - Failed to restart apache2 so giving up
+2025-12-10 09:31:59,221 - INFO - nginx.service is active
+2025-12-10 09:32:09,234 - INFO - apache2 is inactive
+2025-12-10 09:32:09,234 - INFO - Failed to restart apache2 so giving up
+2025-12-10 09:32:09,244 - INFO - ssh.service is active
+2025-12-10 09:32:09,256 - INFO - nginx.service is active
+2025-12-10 09:32:19,269 - INFO - apache2 is inactive
+2025-12-10 09:32:19,269 - INFO - Failed to restart apache2 so giving up
+2025-12-10 09:32:19,279 - INFO - nginx.service is active
+2025-12-10 09:32:29,293 - INFO - apache2 is inactive
+2025-12-10 09:32:29,293 - INFO - Failed to restart apache2 so giving up
+2025-12-10 09:32:29,303 - INFO - nginx.service is active
+2025-12-10 09:32:39,316 - INFO - apache2 is inactive
+2025-12-10 09:32:39,317 - INFO - Failed to restart apache2 so giving up
+2025-12-10 09:32:39,326 - INFO - ssh.service is active
+2025-12-10 09:32:39,334 - INFO - nginx.service is active
+2025-12-10 09:32:49,346 - INFO - apache2 is inactive
+2025-12-10 09:32:49,346 - INFO - Failed to restart apache2 so giving up
+2025-12-10 09:32:49,356 - INFO - nginx.service is active
+2025-12-10 09:32:52,290 - INFO - apache2 is inactive
+2025-12-10 09:32:52,473 - INFO - ssh.service is active
+2025-12-10 09:32:52,482 - INFO - nginx.service is active
+2025-12-10 09:33:02,496 - INFO - apache2 is inactive
+2025-12-10 09:33:02,678 - INFO - nginx.service is active
+2025-12-10 09:33:12,694 - INFO - apache2 is inactive
+2025-12-10 09:33:12,695 - INFO - Failed to restart apache2 so giving up
+2025-12-10 09:33:12,705 - INFO - nginx.service is active
+2025-12-10 09:33:22,719 - INFO - apache2 is inactive
+2025-12-10 09:33:22,719 - INFO - gave up on apache2
+2025-12-10 09:33:22,730 - INFO - ssh.service is active
+2025-12-10 09:33:22,742 - INFO - nginx.service is active
+2025-12-10 09:33:32,758 - INFO - apache2 is inactive
+2025-12-10 09:33:32,758 - INFO - gave up on apache2
+2025-12-10 09:33:32,766 - INFO - nginx.service is active
+2025-12-10 09:33:42,778 - INFO - apache2 is inactive
+2025-12-10 09:33:42,778 - INFO - gave up on apache2
+2025-12-10 09:33:42,786 - INFO - nginx.service is active
+2025-12-10 09:33:52,797 - INFO - apache2 is inactive
+2025-12-10 09:33:52,797 - INFO - gave up on apache2
+2025-12-10 09:33:52,806 - INFO - ssh.service is active
+2025-12-10 09:33:52,814 - INFO - nginx.service is active
+2025-12-10 09:34:02,827 - INFO - apache2 is inactive
+2025-12-10 09:34:02,827 - INFO - gave up on apache2
+2025-12-10 09:34:02,835 - INFO - nginx.service is active
+2025-12-10 09:34:12,847 - INFO - apache2 is inactive
+2025-12-10 09:34:12,848 - INFO - gave up on apache2
+2025-12-10 09:34:12,856 - INFO - nginx.service is active
+2025-12-10 09:34:22,871 - INFO - apache2 is inactive
+2025-12-10 09:34:22,871 - INFO - gave up on apache2
+2025-12-10 09:34:22,881 - INFO - ssh.service is active
+2025-12-10 09:34:22,889 - INFO - nginx.service is active
+2025-12-10 09:34:32,901 - INFO - apache2 is inactive
+2025-12-10 09:34:32,901 - INFO - gave up on apache2
+2025-12-10 09:34:32,909 - INFO - nginx.service is active
+2025-12-10 09:34:42,919 - INFO - apache2 is inactive
+2025-12-10 09:34:42,919 - INFO - gave up on apache2
+2025-12-10 09:34:42,927 - INFO - nginx.service is active
+2025-12-10 09:34:52,938 - INFO - apache2 is inactive
+2025-12-10 09:34:52,938 - INFO - gave up on apache2
+2025-12-10 09:34:52,948 - INFO - ssh.service is active
+2025-12-10 09:34:52,959 - INFO - nginx.service is active
