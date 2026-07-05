@@ -1,4 +1,15 @@
+# Local environment variables
 .env
-/conf.d
-siiter.log
-/package_build
+
+# Local logs
+*.log
+
+# Local configurations and package builds
+/conf.d/
+/package_build/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
